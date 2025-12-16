@@ -11,3 +11,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a civil Engineer
 
+## 📊 GitHub Stats
+
+![Pankaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itspunkaj&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itspunkaj&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=itspunkaj&theme=tokyonight)
+
