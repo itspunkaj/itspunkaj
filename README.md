@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itspunkaj&layout=compact)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itspunkaj)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itspunkaj)
 
 
