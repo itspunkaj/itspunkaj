@@ -13,15 +13,12 @@ Here are some ideas to get you started:
 - ✅ My Previous Company's [Github](https://github.com/pankajLaunchX)
 
 ## 📊 GitHub Stats at Endee
-![Pankaj's Gtihub Stats at Endee](https://github-readme-stats.vercel.app/api?username=pankajEndee&show_icons=true)
-![Top Languages at Endee](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajEndee&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pankajEndee&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 📊 GitHub Stats at LaunchX
-![Pankaj's Gtihub Stats at LaunchX](https://github-readme-stats.vercel.app/api?username=pankajLaunchX&show_icons=true)
-![Top Languages at LaunchX](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajLaunchx&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pankajLaunchX&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 📊 GitHub Stats on this profile
-[![Pankaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itspunkaj&show_icons=true)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itspunkaj&theme=tokyonight)](https://git.io/streak-stats)
 
 
