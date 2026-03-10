@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=pankajEndee)](https://git.io/streak-stats)
 
 ## 📊 GitHub Stats at LaunchX
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pankajLaunchX&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pankajLaunchX)](https://git.io/streak-stats)
 
 ## 📊 GitHub Stats on this profile
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itspunkaj&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=itspunkaj)](https://git.io/streak-stats)
 
 
