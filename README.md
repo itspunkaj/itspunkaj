@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![Top Languages at LaunchX](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajLaunchx&layout=compact)
 
 ## 📊 GitHub Stats on this profile
-![Pankaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itspunkaj&show_icons=true)
+[![Pankaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itspunkaj&show_icons=true)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itspunkaj&theme=tokyonight)](https://git.io/streak-stats)
 
 
